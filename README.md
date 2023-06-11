@@ -45,4 +45,4 @@ Thank you for visiting my portfolio website!
 
 ```
 
-Make sure to replace `[INSERT CONTACT EMAIL HERE]` with your contact email address, and customize any other sections or information as necessary.
+Make sure to replace `bilalchen207@gmail.com` with your contact email address, and customize any other sections or information as necessary.
