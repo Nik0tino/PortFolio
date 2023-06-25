@@ -39,10 +39,8 @@ All rights are reserved by Bilal Chentouf for this portfolio website. The source
 
 ## Contact
 
-If you have any inquiries or would like to get in touch, please feel free to reach out to me at [INSERT CONTACT EMAIL HERE].
+If you have any inquiries or would like to get in touch, please feel free to reach out to me at bilalchen207@gmail.com.
 
 Thank you for visiting my portfolio website!
 
 ```
-
-Make sure to replace `bilalchen207@gmail.com` with your contact email address, and customize any other sections or information as necessary.
