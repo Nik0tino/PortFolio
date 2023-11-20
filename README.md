@@ -15,7 +15,7 @@ To set up the portfolio website locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/MihawkDev/PortFolio
+   git clone https://github.com/Nik0tino/PortFolio
    ```
 
 2. Navigate to the project directory:
